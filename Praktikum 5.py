@@ -102,7 +102,8 @@ while True:
     elif pilihan == "c":
         find_data()
     elif pilihan == "k":
-        print("Terimakasih sudah menggunakan program ini by Nevillaz:) ")
+        print("Terimakasih sudah menggunakan program ini :) ")
         break
     else:
+
         print("Pilihan tidak sesuai")
