@@ -105,5 +105,4 @@ while True:
         print("Terimakasih sudah menggunakan program ini :) ")
         break
     else:
-
         print("Pilihan tidak sesuai")
